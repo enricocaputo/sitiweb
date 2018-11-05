@@ -1,7 +1,7 @@
 ---
 title: Fondamenti di Markdown
 excerpt: Formattazione di base
-image: 'http://www.sitiweb.fvg.it/images/posts-images/love-markdown.png'
+image: 'https://www.sitiweb.fvg.it/images/posts-images/love-markdown.png'
 image_featured: true
 author_staff_member: enrico
 show_comments: true
