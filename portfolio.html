@@ -1,0 +1,26 @@
+---
+title: Portfolio &middot; Progetti Web e Marketing Realizzati
+excerpt: "Selezione lavori Enrico Caputo, Progettazione sito web e portale risorse per designer Concept, progettazione e realizzazione grafica interfaccia per una sito web dedicato a risorse per designer.."
+heading: Progetti Personalizzati
+subtitle: Alcuni siti web realizzati con il CMS Jekyll
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+		<ul class="image-grid">
+			{% for client in site.clients %}
+				<li>
+					<a href="{{ site.baseurl }}{{ client.url }}">
+						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ client.name }}</div>
+							<div class="position">{{ client.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>

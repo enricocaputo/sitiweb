@@ -1,0 +1,84 @@
+---
+title: Contatti &middot; Freelance Web Designer
+excerpt: Contatti Enrico Caputo Web designer Italia Udine. Chiama per richiedere un preventivo gratuito oppure prenota un colloquio senza impegno.
+heading: Chiama oggi stesso
+subtitle: Mi piacerebbe aiutare la tua attività a crescere
+map:
+  latitude: 45.941129
+  longitude: 13.338541
+  address: "Via Palma 26, 33050 Trivignano Udinese UD"
+  zoom: 8
+---
+<section class="diagonal">
+	<div class="container"> <h3>Preventivo Gratuito</h3><p>Richiedi un preventivo gratuito e un colloquio senza impegno.</p>
+    <form action="https://www.enformed.io/glue4q0p" method="post" class="contact-form">
+      <input type="hidden" name="*subject" value="Richiesta info da Cliente SitiWebFVG" />
+
+			<div class="halves">
+				<div>
+					<label for="name">Nome</label>
+					<input type="text" name="first-name" id="first-name" placeholder="Mario" />
+				</div>
+
+				<div>
+					<label for="name">Cognome</label>
+					<input type="text" name="last-name" id="last-name" placeholder="Rossi" />
+				</div>
+			</div>
+
+			<label for="email">Email</label>
+			<input type="email" name="email" id="email" placeholder="mario.rossi@gmail.com" required />
+
+			<label for="message">Messaggio</label>
+			<textarea name="message" id="message" placeholder="Vi contatto per..."></textarea>
+      <input type="hidden" name="*redirect" value="http://www.sitiweb.fvg.it/contact-success/" />
+			<input type="submit" value="I N V I A" />
+		</form>
+	</div>
+</section>
+
+<section class="diagonal map">
+	<div id="gmap_canvas"></div>
+</section>
+
+<section class="diagonal">
+	<div class="container halves aligned-top">
+		<div>
+			<h4>Indirizzo</h4>
+				<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
+		</div>
+		<div>
+			<h4>Email</h4>
+			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
+		</div>
+	</div>
+</section>
+
+<script type="text/javascript">
+	window.mapData = {{ page.map | jsonify }};
+
+	function initMap() {
+		var myOptions = {
+			scrollwheel: false,
+			draggable: false,
+			panControl: false,
+			disableDefaultUI: true,
+			styles: [{"featureType":"landscape.man_made","elementType":"geometry","stylers":[{"color":"#f7f1df"}]},{"featureType":"landscape.natural","elementType":"geometry","stylers":[{"color":"#d0e3b4"}]},{"featureType":"landscape.natural.terrain","elementType":"geometry","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"poi.business","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi.medical","elementType":"geometry","stylers":[{"color":"#fbd3da"}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#bde6ab"}]},{"featureType":"road","elementType":"geometry.stroke","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffe15f"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#efd151"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"color":"black"}]},{"featureType":"transit.station.airport","elementType":"geometry.fill","stylers":[{"color":"#cfb2db"}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#a2daf2"}]}],
+			zoom: window.mapData.zoom,
+			maxZoom: window.mapData.zoom,
+			minZoom: window.mapData.zoom,
+			center: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude),
+			mapTypeId: google.maps.MapTypeId.ROADMAP
+		};
+		map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
+		marker = new google.maps.Marker({
+			map: map,
+			position: new google.maps.LatLng(window.mapData.latitude, window.mapData.longitude)
+		});
+
+		google.maps.event.addDomListener(window, "resize", function () {
+			map.setCenter(myOptions.center);
+		});
+	}
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>

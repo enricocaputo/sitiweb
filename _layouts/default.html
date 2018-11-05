@@ -1,0 +1,78 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="it">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>{% include screen.css %}</style>
+		<link rel="icon" type="image/x-icon" href="/favicon.ico">
+		{% feed_meta %}
+	  	{% seo %}
+	  <!--[if lt IE 9]>
+	  <script src="/js/html5shiv.min.js"></script>
+	  <script src="/js/respond.min.js"></script>
+	  <![endif]-->
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/firma.png" alt="Siti Web" width="190"></a></div>
+				{% include navigation.html %}
+			</div>
+		</header>
+		{{ content }}
+		<footer class="diagonal">
+			<div class="container">
+				<div class="footer-columns">
+					{% for column in site.data.footer %}
+						<ul class="footer-links">
+							<li>
+								<h3>{{ column.title }}</h3>
+							</li>
+							{% for link in column.links %}
+								<li>
+									<a rel="noopener" {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+										{% if link.social_icon %}
+											{% include social-icon.html icon=link.social_icon %}
+										{% endif %}
+
+										{{ link.name }}
+									</a>
+								</li>
+							{% endfor %}
+						</ul>
+					{% endfor %}
+					<ul class="footer-links">
+						<li>
+							<h3>{{ site.data.company.title }}</h3>
+						</li>
+						<li>{{ site.data.company.description }}</li>
+						<li><a rel="noopener" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="legal-line">
+				<p class="container">
+					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }}
+					&bull;
+					<a href="/cookie_policy/">Terms & Privacy</a>
+				</p>
+			</div>
+		</footer>
+		<script>
+			document.getElementById("open-nav").onclick = function () {
+				document.body.classList.toggle("nav-open");
+				return false;
+			};
+		</script>
+		<script type="text/javascript" src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="{{ site.baseurl }}/js/cookiebar.js"></script>
+		<script type="text/javascript">
+				$(document).ready(function() {
+					$.cookieBar();
+				});
+		</script>
+	</body>
+</html>

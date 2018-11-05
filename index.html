@@ -1,70 +1,108 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Jekyll Admin</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width; height=device-height; initial-scale=1; maximum-scale=1">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="stylesheet" type="text/css" href="src/stylesheet.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Mono">
-	<script
-	src="https://code.jquery.com/jquery-3.1.1.min.js"
-	integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-	crossorigin="anonymous"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
-	<script type="text/javascript" src="https://cdn.rawgit.com/showdownjs/showdown/master/dist/showdown.min.js"></script>
-	<script type="text/javascript" src="src/script.js"></script>
-	<script type="text/javascript">
-		 function runScript(e) {
-			if (e.keyCode == 13) {
-				login();
-				return false;
-			}
-		}
-	</script>
-</head>
-<body>
-
-	<div class="head blue">
-		<div class="container row" style="margin-bottom: 0;">
-			<div class="col s10 m10">
-				<h3>Jekyll Admin</h3>
-			</div>
-			<div class="col s2 m2 right-align logout-wrapper">
-				<h3></h3>
-				<button class="mbtn" onclick="logout()">LOGOUT</button>
-				<a class='dropdown-button options white-text' href='#!' data-activates='dropdown1'>
-					<i class="material-icons">more_vert</i>
-				</a>
-			</div>
-		</div>
-		<ul id='dropdown1' class='dropdown-content'>
-			<li><a href="javascript: logout()">Logout</a></li>
-		</ul>
+---
+title: Realizzazione Siti Internet Udine
+---
+<section class="hero diagonal">
+	<div class="container">
+		<br/><br/><br/>
+		<h1>Web designer a Udine e <br/>consulente SEO freelance</h1>
+		<p>Per una solida presenza web del tuo business</p>
+		<p><a class="button button-transparent" href="{{ site.baseurl }}/contatti/" title="Richiedi un preventivo gratuito per il tuo sito internet">Preventivo</a></p>
 	</div>
-	<a class="back-btn white-text waves-effect waves-light"><i class="material-icons">arrow_back</i></a>
-
-	<main class="container">
-		<div class="row">
-			<div class="col s12 m6">
-				<h5 class="blue-text">Login</h5>
-				<br>
-				<div class="input-field">
-					<input placeholder="" id="username" type="text" onkeypress="return runScript(event)"/>
-					<label for="username">Username</label>
-				</div>
-				<div class="input-field">
-					<input placeholder="" id="password" type="password" onkeypress="return runScript(event)"/>
-					<label for="password">Password</label>
-				</div>
-				<button id="login" class="btn waves-effect waves-light blue" onclick="login()">Login</button>
-			</div>
+</section>
+<section class="diagonal landing-wrap">
+	<div class="container halves">
+		<div class="easy-editing">
+			<img src="/images/enrico-caputo.png" alt="Easy editing" class="screenshot">
 		</div>
-	</main>
+		<div class="landing-text">
+			<h2>Freelance Web Designer Realizzazione siti web Udine</h2>
+			<p>
+				Mi rivolgo alle Aziende e ai Professionisti che intendono investire nella propria presenza online e
+				rinnovare il proprio branding. Offro soluzioni e servizi altamente professionali e personalizzati.
+				Il mio studio di progettazione è a di Udine.
+			</p>
+			<p><a class="button" href="/informazioni-su-enrico-caputo-web-designer/" title="Chi è Enrico Caputo">CHI SONO</a></p>
+		</div>
 
-	<div id="modal" class="modal"></div>
+	</div>
+</section>
+<section class="diagonal landing-wrap">
+	<div class="container halves">
+		<div class="landing-text">
 
-</body>
-</html>
+			<h2>Web Design & CMS</h2>
+			<p>Disegno siti web veloci, interattivi e ad <strong>alto impatto grafico</strong>. Le mie opere possono
+				includere un sistema di gestione dei contenuti (<strong>CMS</strong>) per aggiornare ancora più facilmente
+				il vostro sito in autonomia. Il design è responsivo e <strong>mobile friendly</strong>.
+				<a href="/realizzazione-siti-web-udine/" title="7 passi per costruire un sito internet vincente">Approfondisci..</a>
+			</p>
+				<br/>
+			<h3>Ecommerce</h3>
+			<p>Che vendiate prodotti oppure servizi, le soluzioni ecommerce che offro permettono di
+				gestire il vostro negozio virtuale con estrema facilità, forme di pagamento incluse.
+				Grazie allo <strong>Shopping Cart</strong> e ai metodi di pagamento di
+				<a rel="nofollow noopener" href="https://snipcart.com/" title="Snipcart">Snipcart</a>
+				offriremo alla vostra clientela acquisti in <strong>tre click</strong>.
+			</p>
+			<br/>
+			<h3>Non utilizzo WordPress!</h3>
+			<p>WordPress è la piattaforma di "blogging" più popolare al mondo. Nonostante ciò,
+				non lo utilizzo per la gestione dei contenuti dei miei Clienti:
+				<strong>non è facile da utilizzare</strong> e <strong>richiede ingenti costi di manutenzione</strong>
+				quando si desidera rinnovare il sito.
+				I miei siti sono realizzati su misura e mantenuti ad un livello tecnico molto alto.
+				Io e i miei Clienti desideriamo che i siti siano del tutto sicuri, molto rapidi ed
+				estremamente semplici per modificare i contenuti.
+				Questi sono alcuni delle motivazioni per cui WordPress non raggiunge gli standard qualitativi
+				che io richiedo quando devo sviluppare un nuovo progetto web. Quando realizzo un sito internet,
+				desidero la massima potenza, flessibilità e controllo: WordPress non offre queste caratteristiche.</p>
+				<br/>
+
+				<h2>Seo Specialist </h2>
+				<p>Il vostro sito internet sarà <strong>indicizzato</strong> al meglio in base a delle <strong>keyworld</strong> che sceglieremo assieme.
+				 Poi, grazie a degli speciali <strong>plugin gratuti</strong> (es. <a href="/consulente-seo-udine/" title="Dott. Enrico Caputo Consulente SEO Udine">Jekyll-Seo-Tag</a>) le migliorie delle pagine avverranno in automatico.
+				 Per finire, eviteremo tutto ciò che potrebbe penalizzare il ranking del sito nei motori di ricerca.</p>
+
+					<br/>
+					<h2>Sempre al passo con le novità</h2>
+					<p>Mi mantengo costantemente aggiornato su tempi e modi della comunicazione, sulle novità, sugli strumenti
+						orientati al mondo del web al fine di reperire ed offrirvi sempre ciò che di meglio offre la tecnologia. </p>
+
+
+		</div>
+
+
+</section>
+
+
+
+<section class="diagonal patterned  w3-opacity-min w3-hover-opacity-off">
+	<div class="container halves">
+		<div>
+			<h2>Alcuni nostri progetti</h2>
+			<p class="editable">Realizziamo siti internet per aziende, negozi e liberi professionisti.</p>
+			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Vedi Portfolio Completo &rarr;</a></p>
+		</div>
+		<div>
+			<ul class="image-grid">
+				{% for client in site.clients limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
+<section class="diagonal alternate">
+	<div class="container halves">
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/amazon-web-services.png" width="250" style="margin-bottom: 40px;"></li>
+				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
+			</ul>
+		</div>
+		<div>
+			<h2>Il Cloud più potente per la tua attività online.</h2>
+			<p>Realizzo siti web con tecnologie di ultimissima generazione. Offro supporto continuo e servizio di cloud computing con upTime del 99,90%: garanzia assoluta che il sito web sia veloce e affidabile per molti anni.</p>
+		</div>
+	</div>
+</section>

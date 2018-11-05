@@ -1,0 +1,42 @@
+- title: Servizi
+  links:
+    - name: Creazione Siti Web
+      link: /realizzazione-siti-web-udine/
+    - name: Email e Hosting
+      link: /hosting/
+    - name: Grafica Web
+      link: /restyling-grafica-web/
+    - name: SEO
+      link: /consulente-seo-udine/
+    - name: E..
+      link: /servizi-webdesign-freelance-udine/
+- title: Contatti
+  links:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/enricocaputo/
+      social_icon: LinkedIn
+      new_window: true
+    - name: Facebook
+      link: https://www.facebook.com/enricocaputo.1972
+      social_icon: Facebook
+      new_window: true
+    #- name: Twitter
+    #  link:
+    #  social_icon: Twitter
+    #  new_window: true
+    #- name: Google+
+    #  link:
+    #  social_icon: Google Plus
+    #  new_window: true
+    - name: WhatsApp
+      link: https://wa.me/393889005888
+      social_icon: WhatsApp
+      new_window: true
+    - name: +39 388 9005888
+      link: tel:+393889005888
+      social_icon: Telephone
+      new_window: true
+    - name: info@sitiweb.fvg.it
+      link: mailto:info@sitiweb.fvg.it
+      social_icon: Email
+      new_window: true

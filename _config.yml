@@ -1,0 +1,122 @@
+title: "Dott. Enrico Caputo &middot; web designer"
+url: "http://www.sitiweb.fvg.it"
+baseurl:
+google_maps_javascript_api_key: AIzaSyAFyGqoptHgtnLTKGC5ytcGuZafPGbLZis
+google_site_verification:
+disqus_shortname:
+
+# Default description in social shares for the jekyll-seo-tag gem
+type: "@person"
+# Author details for the jekyll-seo-tag gem
+author:
+  name: "Dott. Enrico Caputo &middot; web designer"
+  email: info@sitiweb.fvg.it
+description: "Realizzazione siti web Udine. Progettazione siti internet aziendali, ecommerce e professionali. Web Designer e Consulente SEO Freelance."
+# Social details for the jekyll-seo-tag gem
+social:
+  name: enricocaputo.1972
+  links:
+    - https://www.facebook.com/sitiweb.fvg/
+
+timezone: Europe/Rome
+lang: it_IT
+
+collections:
+  staff_members:
+    output: false
+  clients:
+    output: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+jekyll-archives:
+  enabled: all
+  enabled:
+    - categories
+  enabled:
+    - year
+    - month
+    - tags
+
+plugins:
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-archives"
+  - "jekyll-sitemap"
+  - "jemoji"
+
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+    - "/atom.xml"
+    - "/feed.xml"
+    - "/feed/index.xml"
+  include_posts:
+    - "/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 960
+          height: 2000
+  - scope:
+      path: ""
+      type: "clients"
+    values:
+      layout: "client"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+      type: "pages"
+    values:
+      layout: "default"
+
+# -----------
+
+social_icons:
+  - Facebook
+  - LinkedIn
+  - RSS
+
+  # Compress
+sass:
+    style: compressed
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  startings: [head, body]
