@@ -12,7 +12,7 @@ title: Realizzazione Siti Internet Udine
 <section class="diagonal landing-wrap">
 	<div class="container halves">
 		<div class="easy-editing">
-			<img src="/images/enrico-caputo.png" alt="Easy editing" class="screenshot">
+			<img src="/images/EnricoCaputo-WebDesigner-Udine.png" alt="EnricoCaputo-WebDesigner-Udine" class="screenshot">
 		</div>
 		<div class="landing-text">
 			<h2>Freelance Web Designer Realizzazione siti web Udine</h2>
@@ -86,7 +86,7 @@ title: Realizzazione Siti Internet Udine
 		<div>
 			<ul class="image-grid">
 				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+					<li><a href="{{ site.baseurl }}{{ client.url }}" title="{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" alt="{{ client.url }}"></a></li>
 				{% endfor %}
 			</ul>
 		</div>
@@ -96,8 +96,8 @@ title: Realizzazione Siti Internet Udine
 	<div class="container halves">
 		<div>
 			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/amazon-web-services.png" width="250" style="margin-bottom: 40px;"></li>
-				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
+				<li><img src="{{ site.baseurl }}/images/amazon-web-services.png" alt="amazon-web-services" width="250" style="margin-bottom: 40px;"></li>
+				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" alt="jekyll-CMS-OpenSource" width="300"></li>
 			</ul>
 		</div>
 		<div>
