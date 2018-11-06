@@ -1,0 +1,19 @@
+{
+    "short_name": "Caputo",
+    "name": "Enrico Caputo",
+    "icons": [
+        {
+            "src": "/images/ico/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ico/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#323234",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
