@@ -6,12 +6,14 @@ google_site_verification:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-type: "@person"
+type: Organization
+image:
+  path: /images/enrico-caputo-logo.png
+  height: 192
+  width: 192
 # Author details for the jekyll-seo-tag gem
-author:
-  name: "Enrico Caputo Web e Graphic designer"
-  email: info@sitiweb.fvg.it
-description: "Web designer specializzato in realizzazione di siti internet a Udine. Siti ecommerce e web marketing di qualità per la tua azienda. Scopri sitiweb.fvg.it"
+author: Enrico Caputo Web e Graphic designer
+description: Web designer specializzato in realizzazione di siti internet a Udine. Siti ecommerce e web marketing di qualità per la tua azienda. Scopri sitiweb.fvg.it
 # Social details for the jekyll-seo-tag gem
 social:
   name: enricocaputo.1972
