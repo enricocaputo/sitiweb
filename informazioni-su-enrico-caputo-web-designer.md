@@ -5,8 +5,9 @@ excerpt: "Enrico Caputo è web designer, web developer e consulente SEO in Itali
 heading: Enrico Caputo
 subtitle: Freelance Web Designer Udine
 ---
+### Sono un Web Designer e Graphic Designer Freelance
 
-Il mio lavoro è la realizzazione di siti internet, il restyling di siti web, l'ottimizzazione sui motori di ricerca e la grafica coordinata.
+Il mio lavoro è la realizzazione di siti internet, il restyling di siti web, l'ottimizzazione sui motori di ricerca e la grafica coordinata. Offro prezzi molto competitivi e qualità da agenzia.
 
 
 ## Creo siti internet per aziende e professionisti
