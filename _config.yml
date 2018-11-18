@@ -12,9 +12,11 @@ author: Enrico Caputo Web e Graphic designer
 description: Web designer specializzato in realizzazione di siti internet a Udine. Siti ecommerce e web marketing di qualità per la tua azienda. Scopri sitiweb.fvg.it
 # Social details for the jekyll-seo-tag gem
 social:
-  name: enricocaputo.1972
+  name: Enrico Caputo
   links:
-    - https://www.facebook.com/sitiweb.fvg/
+    - https://www.facebook.com/enricocaputo.1972
+    - https://www.pinterest.it/enricowebdesigner/
+    - https://www.linkedin.com/in/enricocaputo/
 
 timezone: Europe/Rome
 lang: it_IT
