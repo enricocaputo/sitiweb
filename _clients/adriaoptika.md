@@ -61,7 +61,7 @@ Questo sito usa il plugin [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-
 [Google Analytics](https://www.google.com/analytics/) è uno strumento di analisi di terze parti. Per installarlo:
 
 1. Aggiungi la tua Google Analytics key al file `_config.yml`.
-2. Esegui il tuo sito in produzione `JEKYLL_ENV=production` (di default per SitiWeb_FVG e GitHub Pages).
+2. Esegui il tuo sito in produzione `JEKYLL_ENV = production` (di default per SitiWeb_FVG e GitHub Pages).
 
 ## EventBrite
 
