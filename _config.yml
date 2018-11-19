@@ -32,7 +32,7 @@ collections:
     permalink: /jekyll-website/:title
 
 paginate: 10
-paginate_path: "/blog/:num/"
+paginate_path: "/jekyll-website/:num/"
 permalink: pretty
 
 jekyll-archives:
