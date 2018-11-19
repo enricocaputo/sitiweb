@@ -1,11 +1,11 @@
 ---
-name: Eventi Template
-subtitle: Eventi e Sagre / template per Jekyll
+Title: Siti web per eventi, sagre e concerti
+subtitle: Eventi, Sagre e Concerti
+excerpt: Sito web ad alto impatto per eventi, sagre e concerti, è possibile effettuare anche la prevendita dei biglietti online, è possible aggiungere una sezione ecommerce.
 external_url: https://whispering-boat.cloudvent.net/
 image_path: /images/clients/malt.jpg
 ---
-Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
-Increase the web presence of your event with this configurable theme.
+Sito web ad alto impatto per eventi, sagre e concerti, è possibile effettuare anche la prevendita dei biglietti online, è possible aggiungere una sezione ecommerce. Guarda una [live demo](https://whispering-boat.cloudvent.net/). Il successo è assicurato!
 
 Eventi è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 

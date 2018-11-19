@@ -1,6 +1,7 @@
 ---
-name: W3 Pro Template
-subtitle: W3 Pro CSS / template per Jekyll
+title: Siti web per freelance e web designer
+subtitle: Web Design
+excerpt: Template basato sul framework css di ultimissima generazione W3School, particolarmente adatto a geeks, sviluppatori, graphic e web designer.
 external_url: https://enricocaputo.github.io/w3pro/
 image_path: /images/clients/w3pro.jpg
 ---

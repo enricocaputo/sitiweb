@@ -7,14 +7,18 @@ layout: default
 	<div class="container">
 		<br/><br/><br/>
 		{% if portfolio.heading %}
-		<h1><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h1>
+		<h1>{{ page.title | capitalize }}</h1>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
 		{% endif %}
 	</div>
 </section>
-
+<section class="diagonal diagonal-breadcrumbs">
+	<div class="halves">
+		{% include breadcrumbs.html path=page.path title=page.title %}
+	</div>
+</section>
 <section class="diagonal">
 	<div class="container">
 		<p><img src="{% include relative-src.html src=page.image_path %}" class="screenshot"></p>

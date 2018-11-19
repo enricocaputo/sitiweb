@@ -1,22 +1,22 @@
-- name: Cloud CMS
-  price: 15
-  sub: Il Cloud CMS per Jekyll
+- name: Cloud
+  price: 10
+  sub: Hosting upTime 99.90%
   features:
     - Hosting su Cloud
-    - upTime 99.90%
-    - Easy Editor
-- name: Sito Web
-  price: 50
-  sub: Aiutaci con testi e foto
+    - Dominio e gestione DNS
+    - Utente singolo
+- name: Cloud + CMS
+  price: 20
+  sub: Il CMS per Jekyll
   highlight: true
   features:
-    - Creazione Sito Web
-    - Restyling Sito
-    - DNS Personalizzati
-- name: Super Pro
+    - Il piano Cloud +
+    - CMS Easy Editor
+    - Gestione email + alias
+- name: CMS + Pro
   price: 100
-  sub: Senza pensieri
+  sub: Per teams
   features:
-    - Sito Web
-    - Cloud CMS
-    - Supporto Continuo
+    - 5 team members
+    - Castom branding
+    - SOrganizzazione condivisa

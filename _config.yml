@@ -1,4 +1,4 @@
-title: Enrico Caputo Web Designer a Udine
+title: Realizzazione Siti Web a Udine
 url: "https://www.sitiweb.fvg.it"
 baseurl:
 google_maps_javascript_api_key: AIzaSyAFyGqoptHgtnLTKGC5ytcGuZafPGbLZis
@@ -8,8 +8,8 @@ disqus_shortname:
 # Default description in social shares for the jekyll-seo-tag gem
 type: Organization
 # Author details for the jekyll-seo-tag gem
-author: Enrico Caputo Web e Graphic designer
-description: Web designer specializzato in realizzazione di siti internet a Udine. Siti ecommerce e web marketing di qualità per la tua azienda. Scopri sitiweb.fvg.it
+author: Enrico Caputo Web Designer Udine
+description: Web agency specializzato in realizzazione di siti internet a Udine. Siti ecommerce e web marketing di qualità per la tua azienda. Scopri sitiweb.fvg.it
 # Social details for the jekyll-seo-tag gem
 social:
   name: Enrico Caputo
@@ -26,6 +26,10 @@ collections:
     output: false
   clients:
     output: true
+    permalink: /portfolio/:title
+  posts:
+    output: true
+    permalink: /jekyll-website/:title
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -67,7 +71,7 @@ exclude:
 
 defaults:
   - scope:
-      path: ""
+      path: "_posts"
       type: "posts"
     values:
       layout: "post"

@@ -1,9 +1,9 @@
 links:
-- name: Home
-  link: /../
 - name: About
-  link: /informazioni-su-enrico-caputo-web-designer/
-- name: Showcase
-  link: /portfolio/
+  link: /enrico-caputo-web-designer/
+- name: Blog
+  link: /jekyll-website/
 - name: Contatti
   link: /contatti/
+- name: Showcase
+  link: /portfolio/

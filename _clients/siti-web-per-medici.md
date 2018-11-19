@@ -1,13 +1,15 @@
 ---
-name: Rental Template
-subtitle: Noleggio Auto e Barche / AMP
-external_url: https://portorozrent.si/
-image_path: /images/clients/portorozrent.png
+title: Siti web per Medici
+subtitle: Studio Medico
+excerpt: Sito web di impatto professionale per medici, studio medico, dentisti, paramedici, medicina dello sport ecc. I pazienti potranno prenotare gli appuntamenti online.
+external_url: http://www.studiomedicoaurorapinerolo.it/
+image_path: /images/clients/medici.jpg
 ---
-Marketing site template for Jekyll. Browse through a [live demo](https://portorozrent.si/).
-Increase the web presence of your brand with this configurable theme.
+Sito web di impatto professionale per studio medico, paramedici, medicina dello sport ecc. Gurda la [live demo](http://www.studiomedicoaurorapinerolo.it/).
+Rafforza la presenza web del tuo studio medico con questo tema altamente personalizzabile:
+permette ai pazienti di prenotare gli appuntamenti online.
 
-Rental è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
+Medici è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
 Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
@@ -34,7 +36,7 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Rental è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2 e supporta le future versioni.
+Medici è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
 
 Installa le dipendenze con [Bundler](http://bundler.io/):
 
@@ -50,7 +52,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Rental è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
+Medici è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
 
 ### Posts
 
@@ -69,12 +71,12 @@ Rental è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli
 * Reused around the site to save multiple editing locations.
 * Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
 
-### Bara di Navigazione / Menu
-
-* Raccolto in un file sotto forma di una lista di dati per offrire semplicità di accesso e modifica.
-* Da impostare nella sezione *Data* / *Navigation*.
-
 ### Footer
 
 * Raccolto in un file sotto forma di una lista di dati per offrire semplicità di accesso e modifica.
 * Da impostare nella sezione *Data* / *Footer*.
+
+### Dettagli attività
+
+* Riutilizzato in tutto il sito per tempo ed evitare ripetizioni.
+* Da impostare nella sezione *Data* / *Company*.

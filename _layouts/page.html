@@ -14,5 +14,9 @@ layout: default
 		{% endif %}
 	</div>
 </section>
-
+<section class="diagonal diagonal-breadcrumbs">
+	<div class="halves">
+		{% include breadcrumbs.html path=page.path title=page.title %}
+	</div>
+</section>
 {{ content }}

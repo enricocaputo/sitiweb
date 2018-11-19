@@ -1,13 +1,14 @@
 ---
-name: Ottica Template
-subtitle: Ottica / template per Jekyll
-external_url: https://www.adriaoptika.si/
-image_path: /images/clients/adriaoptika.jpg
+title: Siti web per artigiani
+subtitle: Artigiani
+excerpt: Siti web per giardinieri, idraulici, falegnami, imbianchini, elettricisti, imprese edili. Incrementa i tuoi utili grazie a questo tema bello e semplice da configurare.
+external_url: http://potasiepe.com/
+image_path: /images/clients/artigiani.jpg
 ---
-Ideale per negozi di ottica. Guarda una [live demo](https://www.adriaoptika.si/).
+Questo sito web per artigiani è stato realizzato per essere particolarmente semplice da modificare e per poter mostrare ai tuoi clienti la qualità del tuo lavoro. Guarda una [live demo](http://www.potasiepe.com/).
 Incrementa la presenza web della tua attività con questo tema configurabile a piacere.
 
-Ottica è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
+Artigiani è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 Qui puoi trovare altri esempi di temi per [Jekyll](http://jekyllthemes.org/) da cui trarre ispirazione.
 
 Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
@@ -34,7 +35,7 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Ottica è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Artigiani è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
 
 Installa le dipendenze con [Bundler](http://bundler.io/):
 
@@ -50,7 +51,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Ottica è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
+Artigiani è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
 
 ## SEO Tag
 

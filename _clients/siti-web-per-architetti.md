@@ -1,13 +1,14 @@
 ---
-name: Justice Template
-subtitle: Studio Avvocato / template per Jekyll
-external_url: https://grey-grouse.cloudvent.net/
-image_path: /images/clients/justice.jpg
+title: Siti web per architetti
+subtitle: Architetto
+excerpt: Website ideale per architetti e studi di progettazione. Guarda una live demo. Incrementa la presenza web del tua studio di architetto con questo tema altamente personalizzabile.
+external_url: https://www.studioverve.co.uk/
+image_path: /images/clients/architetto.jpg
 ---
-Avvocati, liberi professionisti e studi associati sono gli utenti a cui è indirizzato questo Template per Jekyll. Guarda la [live demo](https://grey-grouse.cloudvent.net/).
-Rafforza la presenza web del tuo studio con questo tema altamente personalizzabile.
+Questo sito web è perfetto per architetti, il template è personalizzabile in ogni dettagli. Guarda la [live demo](https://www.studioverve.co.uk/).
+Rafforza la presenza web del tuo studio arricchendo quest template premium.
 
-Justice è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
+Architetto è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
 Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
@@ -34,7 +35,7 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Justice è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Architetto è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
 
 Installa le dipendenze con [Bundler](http://bundler.io/):
 
@@ -50,7 +51,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Justice è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
+Architetto è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli della tua attività, i membri dello staff e i vari elementi che compongono il sito, come ad esempio la barra di navigazione ed il footer.
 
 ### Posts
 

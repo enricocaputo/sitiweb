@@ -1,6 +1,5 @@
 ---
 ---
-
 $pattern: "{{ site.baseurl }}/images/pattern.png";
 $screenshot-buttons: "{{ site.baseurl }}/images/screenshot-buttons.svg";
 
@@ -25,3 +24,4 @@ $section-rotation: 5deg;
 @import "navigation";
 @import "footer";
 @import "cookiebar";
+@import "breadcrumbs";
