@@ -5,22 +5,20 @@ layout: compress
 <html lang="it">
 	<head>
 		<meta charset="utf-8">
-		<!-- <meta name = "referrer" content = "origin"> -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.baseurl }}" />
-		<!--
-		<style>{% include screen.css %}</style>
-		-->
+		{% seo %}
+		<meta name="rating" content="general">
 		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/ico/favicon.png" sizes="192x192" />
 		<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/ico/apple-touch-icon.png" />
 		<link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
 		<meta name="theme-color" content="#323234" />
-		<meta name="keywords" content="web design, design siti web, design sito web, realizzazione siti web, sito web, grafico, siti web responsive, responsive, graphic designer, app design, stationery design, web designer, web designer freelancer, libero professionista webdesigner, www, freelance web designer, freelance, web designer in udine, identity, enrico caputo, caputo enrico, webdesign udine, Interface design, CMS, graphic design, e-commerce design, design di marchi commerciali, css design, grafica, responsive layout, responsive">
+		<meta name="keywords" content="siti web, siti web udine, realizzazione siti web, realizzazione siti web a udine, web designer, web designer udine, web e graphic designer a udine, siti internet per aziende, siti internet per liberi professionisti, siti web per concessionarie auto">
 		<meta name="copyright" content="Copyright © 2018, Enrico Caputo">
-		<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "url": "https://www.sitiweb.fvg.it", "logo": "https://www.sitiweb.fvg.it/images/logo-caputo-webdesign.png" } </script>
+		<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "url": "https://www.sitiweb.fvg.it", "logo": "https://www.sitiweb.fvg.it/images/ico/favicon.png" } </script>
 		{% feed_meta %}
-	  {% seo %}
+		<style>{% include screen.css %}</style>
 	  <!--[if lt IE 9]>
 	  <script src="/js/html5shiv.min.js"></script>
 	  <script src="/js/respond.min.js"></script>
