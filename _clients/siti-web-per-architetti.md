@@ -55,10 +55,10 @@ Architetto è già ottimizzato per poter aggiornare facilmente le pagine, i dett
 
 ### Posts
 
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+* Aggiungi, aggiorna o rimuovi un post nella raccolta *Posts*.
+* Il campo **Autore** si collega ai membri dello **Staff** nella specifica collezione.
+* Le pagine di documentazione sono organizzate nella navigazione per categoria, con gli URL basati sul percorso all'interno della cartella `_docs`.
+* Cambia i valori predefiniti quando vengono creati nuovi post in `_posts/ _defaults.md`.
 
 ### Contact Form
 
@@ -67,8 +67,8 @@ Architetto è già ottimizzato per poter aggiornare facilmente le pagine, i dett
 
 ### Staff
 
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+* Riutilizzato in tutto il sito per salvare più posizioni di modifica.
+* Aggiungi `excluded _in_ search: true` a qualsiasi argomento della pagina di documentazione per escludere quella pagina nei risultati della ricerca.
 
 ### Footer
 
