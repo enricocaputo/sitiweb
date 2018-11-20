@@ -20,15 +20,13 @@ Siamo in grado di fornirti tutti gli **[strumenti necessari](https://github.com/
 
 La consulenza specifica che offriamo è la spinta necessaria che stai cercando per comprendere i cambiamenti in atto e gestire al meglio le nuove logiche di promozione e acquisto che si stanno affermando in campo automotive.
 
-### Mission
-
-La nostra mission è guidarti sulla **strada dell’innovazione**: se desideri un sito internet
-di successo, <br> **[contattami subito per un preventivo senza impegno!](/contatti/)**
-
 ## Siti Web per concessionari
 
 Approfondisci l'argomento, guarda il nostro **[tema Jekyll](/portfolio/realizzazione-siti-web-per-concessionarie-auto)** specifico per concessionari auto e moto, completamente personalizzabile.
 
-SitiWeb è il partner delle nuove concessionarie auto digitali!
+### Mission
 
-**[Contattami subito per un preventivo senza impegno!](/contatti/)**
+La nostra mission è guidarti sulla **strada dell’innovazione**: se desideri un sito internet
+di successo, <br> **[richiedi subito un preventivo senza impegno!](/contatti/)**
+
+SitiWeb è il partner delle nuove concessionarie auto digitali!
