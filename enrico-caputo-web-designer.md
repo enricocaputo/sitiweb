@@ -20,4 +20,4 @@ A parte la mia vasta esperienza nel visual design, apprezzo la collaborazione e 
 
 ## Cortesia e Disponibilità
 
-Potete valutare entrambi [contattandomi](/contatti/) per valutare insieme un vostro progetto.
+Potete valutare entrambi **[contattandomi](/contatti/)** per valutare insieme il vostro progetto.
