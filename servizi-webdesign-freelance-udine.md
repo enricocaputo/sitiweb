@@ -22,7 +22,7 @@ Collaboro con **fotografi professionisti**, compositori di stacchetti musicali e
 
 Il copywriter è l’esperto di **scrittura professionale**. Se la scrittura non è il vostro forte meglio affidarsi a un professionista del testo scritto. Un copywriter è quello che ci vuole per rendere i testi che vi presentano assolutamente professionali, sia quelli destinati al web sia quelli destinati all’ambito cartaceo. Il copywriter professionista a seconda del compito che gli viene affidato può preparare **testi ottimizzati per i motori di ricerca**, altamente tecnici o viceversa emozionali.
 
-**[Richiedi un preventivo gratuito e senza impegno](/contatti/)**
+**[Richiedi un preventivo gratuito e senza impegno!](/contatti/)**
 
 Se preferite fare da soli oppure istruire un vostro collaboratore vi suggerisco di seguire i consigli di scrittura per il web di <a href="http://www.mestierediscrivere.com/" rel="nofollow"> Luisa Carrada</a>.
 
