@@ -1,6 +1,6 @@
 ---
 title: Fondamenti di Markdown
-excerpt: Formattazione di base
+excerpt: "Una piccola guida per imparare il linguaggio Markdown: un utile strumento per scrivere le pagine di siti web con il generatore di siti statici Jekyll in modo più veloce."
 image: 'https://www.sitiweb.fvg.it/images/posts-images/love-markdown.png'
 image_featured: true
 author_staff_member: enrico
