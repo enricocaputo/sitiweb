@@ -42,7 +42,7 @@ layout: compress
 							</li>
 							{% for link in column.links %}
 								<li>
-									<a rel="noopener" {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+									<a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
 										{% if link.social_icon %}
 											{% include social-icon.html icon=link.social_icon %}
 										{% endif %}
@@ -58,7 +58,7 @@ layout: compress
 							<h3>{{ site.data.company.title }}</h3>
 						</li>
 						<li>{{ site.data.company.description }}</li>
-						<li><a rel="noopener" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
+						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
 					</ul>
 				</div>
 			</div>
