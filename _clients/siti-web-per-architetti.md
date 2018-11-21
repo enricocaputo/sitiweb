@@ -1,5 +1,5 @@
 ---
-title: Siti web per architetti
+title: Siti web per Architetti
 subtitle: Architetto
 excerpt: Website ideale per architetti e studi di progettazione. Guarda una live demo. Incrementa la presenza web del tua studio di architetto con questo tema altamente personalizzabile.
 external_url: https://www.studioverve.co.uk/

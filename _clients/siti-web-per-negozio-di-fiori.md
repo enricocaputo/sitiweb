@@ -1,5 +1,5 @@
 ---
-title: Siti web per negozio di fiori
+title: Siti web per negozio di Fiori
 subtitle: Fiorista
 excerpt: Ideale per fioristi e negozi di fiori. Guarda una live demo. Incrementa la presenza web della tua attività con questo tema configurabile a piacere.
 external_url: https://www.acourtyardflorist.com/

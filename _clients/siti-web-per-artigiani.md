@@ -1,5 +1,5 @@
 ---
-title: Siti web per artigiani
+title: Siti web per Artigiani
 subtitle: Artigiani
 excerpt: Siti web per giardinieri, idraulici, falegnami, imbianchini, elettricisti, imprese edili. Incrementa i tuoi utili grazie a questo tema bello e semplice da configurare.
 external_url: http://potasiepe.com/

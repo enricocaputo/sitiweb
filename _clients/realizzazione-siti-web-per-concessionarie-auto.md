@@ -1,5 +1,5 @@
 ---
-title: Realizzazione Siti per Concessionarie Auto
+title: Siti web per Concessionarie Auto
 subtitle: Concessionarie Auto
 excerpt: Siamo specializzati nella realizzazione di siti web per Concessionari Auto e Moto. Potrai aggiornare liberamente il catalogo in maniera autonoma, connesso con Autoscout24.
 image_path: /images/clients/concessionarie-auto.jpg

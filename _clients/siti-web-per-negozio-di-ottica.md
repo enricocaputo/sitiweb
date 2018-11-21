@@ -1,5 +1,5 @@
 ---
-title: Siti web per negozio di ottica
+title: Siti web per negozio di Ottica
 subtitle: Ottico
 excerpt: Ideale per ottici, optometristi e negozi di ottica. Guarda una live demo. Incrementa la presenza web della tua attività con questo tema configurabile a piacere.
 external_url: https://www.adriaoptika.si/

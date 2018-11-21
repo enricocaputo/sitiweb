@@ -1,5 +1,5 @@
 ---
-Title: Siti web per eventi, sagre e concerti
+title: Siti web per Eventi, Sagre e Concerti
 subtitle: Eventi, Sagre e Concerti
 excerpt: Sito web ad alto impatto per eventi, sagre e concerti, è possibile effettuare anche la prevendita dei biglietti online, è possible aggiungere una sezione ecommerce.
 external_url: https://whispering-boat.cloudvent.net/

@@ -1,5 +1,5 @@
 ---
-title: Siti web per tatuaggi
+title: Siti web per Tatuaggi
 subtitle: Studio Tatoo
 excerpt: Ideale per studio di tatuaggi e tatoo artist. Guarda una live demo. Incrementa la presenza web della tua attività con questo tema configurabile a piacere.
 external_url: http://www.sixfeetunder.com/

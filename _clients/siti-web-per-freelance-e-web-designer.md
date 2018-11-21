@@ -1,7 +1,7 @@
 ---
-title: Siti web per freelance e web designer
-subtitle: Web Design
-excerpt: Template basato sul framework css di ultimissima generazione W3School, particolarmente adatto a geeks, sviluppatori, graphic e web designer.
+title: Siti web Freelance per trovare Lavoro
+subtitle: Freelance
+excerpt: Siti web per Freelance per cercare e  trovare lavoro. Template basato sul framework css di W3School, particolarmente adatto a geeks, sviluppatori, graphic e web designer.
 external_url: https://enricocaputo.github.io/w3pro/
 image_path: /images/clients/w3pro.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-title: Siti web per avvocati
+title: Siti web per Avvocati
 subtitle: Avvocato
 excerpt: Ideale per studio di avvocati. Guarda una live demo. Incrementa la presenza web della tua attività con questo tema personalizzabile a piacere.
 external_url: https://grey-grouse.cloudvent.net/
