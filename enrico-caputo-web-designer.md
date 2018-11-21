@@ -7,7 +7,7 @@ subtitle: Web e Graphic Designer Udine
 ---
 ### Web Developer e Consulente SEO
 
-Il mio lavoro è la realizzazione di siti internet, il restyling di siti web, l'ottimizzazione sui motori di ricerca e la grafica coordinata. Offro [prezzi molto competitivi](/jekyll-website/quanto-costa-un-sito-web) e qualità da agenzia.
+Il mio lavoro è la realizzazione di siti internet, il restyling di siti web, l'ottimizzazione sui motori di ricerca e la grafica coordinata. Offro [prezzi molto competitivi](/jekyll-website/quanto-costa-un-sito-web/) e qualità da agenzia.
 
 
 ## Creo siti internet per aziende e professionisti
