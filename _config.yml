@@ -26,10 +26,10 @@ collections:
     output: false
   clients:
     output: true
-    permalink: /portfolio/:title
+    permalink: /portfolio/:title/
   posts:
     output: true
-    permalink: /jekyll-website/:title
+    permalink: /jekyll-website/:title/
 
 paginate: 10
 paginate_path: "/jekyll-website/:num/"
