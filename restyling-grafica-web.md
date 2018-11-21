@@ -21,3 +21,14 @@ La nuova grafica ed i nuovi testi saranno sviluppati in stretta collaborazione c
 Il restyling ha dei **[costi variabili](/jekyll-website/quanto-costa-un-sito-web/)**, a seconda della grandezza del sito web su cui operare e delle esigenze del cliente e della propria struttura aziendale. I miei siti web sono ottimizzati per tutti i browser per garantire sempre una perfetta visibilità.
 
 **[Scopri quanto costa in media un Sito Web](/jekyll-website/quanto-costa-un-sito-web/)** oppure  **[richiedi ora un preventivo senza impegno](/contatti/)!**
+
+<h2>Realizziamo siti internet per aziende, negozi e liberi professionisti.</h2>
+<ul>
+  {% for client in site.clients %}
+    <li>
+      <a href="{{ site.baseurl }}{{ client.url }}" title="Vedi esempio di siti web per {{ client.subtitle }}">
+        {{ client.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

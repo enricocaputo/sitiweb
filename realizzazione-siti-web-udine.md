@@ -32,3 +32,14 @@ Dopo l'approvazione della bozza grafica, procedo con la scrittura del **codice s
 **Dopo aver testato** il sito è finalmente giunto il momento di metterlo in rete. **Il sito web è online** ed è navigabile da qualsiasi dispositivo. Resto a disposizione del cliente per settare le Email e per eventuali aggiustamenti.
 
 **[Scopri quanto costa in media un Sito Web](/jekyll-website/quanto-costa-un-sito-web/)** oppure  **[richiedi ora un preventivo senza impegno](/contatti/)!**
+
+<h2>Realizziamo siti internet per aziende, negozi e liberi professionisti.</h2>
+<ul>
+  {% for client in site.clients %}
+    <li>
+      <a href="{{ site.baseurl }}{{ client.url }}" title="Vedi esempio di siti web per {{ client.subtitle }}">
+        {{ client.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

@@ -24,4 +24,15 @@ Il copywriter è l’esperto di **scrittura professionale**. Se la scrittura non
 
 **[Richiedi un preventivo gratuito e senza impegno](/contatti/)**
 
-Se preferite fare da soli oppure istruire un vostro collaboratore vi suggerisco di seguire i consigli di scrittura per il web di <a href="http://www.mestierediscrivere.com/" rel="noopener nofollow" target="_blank"> Luisa Carrada</a>.
+Se preferite fare da soli oppure istruire un vostro collaboratore vi suggerisco di seguire i consigli di scrittura per il web di <a href="http://www.mestierediscrivere.com/" rel="nofollow"> Luisa Carrada</a>.
+
+<h2>Realizziamo siti internet per aziende, negozi e liberi professionisti.</h2>
+<ul>
+  {% for client in site.clients %}
+    <li>
+      <a href="{{ site.baseurl }}{{ client.url }}" title="Vedi esempio di siti web per {{ client.subtitle }}">
+        {{ client.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
