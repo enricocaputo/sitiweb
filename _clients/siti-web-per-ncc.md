@@ -5,11 +5,11 @@ excerpt: Sito Web ideale per Noleggio Senza Conducente di auto e barche. Increme
 external_url: https://portorozrent.si/
 image_path: /images/clients/portorozrent.png
 ---
-Sito Web ideale per Noleggio Senza Conducente di auto e barche. Incrementa i risultati della tua attività grazie a questo tema personalizzabile a piacere. Guarda una [live demo](https://portorozrent.si/).
+Sito Web ideale per Noleggio Senza Conducente di auto e barche. Incrementa i risultati della tua attività grazie a questo tema personalizzabile a piacere. Guarda una [live demo](https://portorozrent.si/){: rel="nofollow"}.
 
 Rental è stato realizzato da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
-Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
+Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/){: rel="nofollow"}.
 
 ## Caratteristiche
 
@@ -34,9 +34,9 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Rental è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2 e supporta le future versioni.
+Rental è stato costruito con [Jekyll](http://jekyllrb.com/){: rel="nofollow"} versione 3.7.2 e supporta le future versioni.
 
-Installa le dipendenze con [Bundler](http://bundler.io/):
+Installa le dipendenze con [Bundler](http://bundler.io/){: rel="nofollow"}:
 
 ~~~bash
 $ bundle install
@@ -61,7 +61,7 @@ Rental è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli
 
 ### Contact Form
 
-* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/)).
+* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/){: rel="nofollow"}).
 * Invia le email all'indirizzo indicato in *company details*.
 
 ### Staff

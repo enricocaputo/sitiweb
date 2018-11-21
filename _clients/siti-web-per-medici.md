@@ -5,13 +5,13 @@ excerpt: Sito web di impatto professionale per medici, studio medico, dentisti, 
 external_url: http://www.studiomedicoaurorapinerolo.it/
 image_path: /images/clients/medici.jpg
 ---
-Sito web di impatto professionale per studio medico, paramedici, medicina dello sport ecc. Gurda la [live demo](http://www.studiomedicoaurorapinerolo.it/).
+Sito web di impatto professionale per studio medico, paramedici, medicina dello sport ecc. Gurda la [live demo](http://www.studiomedicoaurorapinerolo.it/){: rel="nofollow"}.
 Rafforza la presenza web del tuo studio medico con questo tema altamente personalizzabile:
 permette ai pazienti di prenotare gli appuntamenti online.
 
 Medici è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
-Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
+Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/){: rel="nofollow"}.
 
 ## Caratteristiche
 
@@ -36,9 +36,9 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Medici è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Medici è stato costruito con [Jekyll](http://jekyllrb.com/){: rel="nofollow"} versione 3.7.2, ma supporta le future versioni.
 
-Installa le dipendenze con [Bundler](http://bundler.io/):
+Installa le dipendenze con [Bundler](http://bundler.io/){: rel="nofollow"}:
 
 ~~~bash
 $ bundle install
@@ -63,7 +63,7 @@ Medici è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli
 
 ### Contact Form
 
-* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/)).
+* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/){: rel="nofollow"}).
 * Invia le email all'indirizzo indicato in *company details*.
 
 ### Staff

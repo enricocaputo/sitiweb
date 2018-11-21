@@ -5,12 +5,12 @@ excerpt: Website ideale per architetti e studi di progettazione. Guarda una live
 external_url: https://www.studioverve.co.uk/
 image_path: /images/clients/architetto.jpg
 ---
-Questo sito web è perfetto per architetti, il template è personalizzabile in ogni dettagli. Guarda la [live demo](https://www.studioverve.co.uk/).
+Questo sito web è perfetto per architetti, il template è personalizzabile in ogni dettagli. Guarda la [live demo](https://www.studioverve.co.uk/ "live demo"){: rel="nofollow"}.
 Rafforza la presenza web del tuo studio arricchendo quest template premium.
 
 Architetto è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
-Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
+Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/ "Vai a Jekyll Official Website"){: rel="nofollow"}.
 
 ## Caratteristiche
 
@@ -35,9 +35,9 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Architetto è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Architetto è stato costruito con [Jekyll](http://jekyllrb.com/){: rel="nofollow"} versione 3.7.2, ma supporta le future versioni.
 
-Installa le dipendenze con [Bundler](http://bundler.io/):
+Installa le dipendenze con [Bundler](http://bundler.io/){: rel="nofollow"}:
 
 ~~~bash
 $ bundle install
@@ -62,7 +62,7 @@ Architetto è già ottimizzato per poter aggiornare facilmente le pagine, i dett
 
 ### Contact Form
 
-* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/)).
+* Preconfigurato per lavorare con SitiWeb_FVG ma può essere facilmente indirizzato verso altri provider (ad es. [FormSpree](https://formspree.io/){: rel="nofollow"}).
 * Invia le email all'indirizzo indicato in *company details*.
 
 ### Staff

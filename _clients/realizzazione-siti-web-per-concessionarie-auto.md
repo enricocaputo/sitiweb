@@ -10,7 +10,7 @@ funzioni che consentono di **gestire in modo semplice ed autonomo i contenuti** 
 
 ## Jekyll e Plugin Autoscout24
 
-Grazie al CMS Jekyll si possono aggiungere nuove pagine e modificare le informazioni già presenti anche **senza nessuna competenza in linguaggi di programmazione**. Con l'utilizzo del plugin **[Jekyll-Autoscout24](/jekyll-website/plugin-jekyll-autoscout24-concessionarie-auto)** potrai pubblicare i tuoi veicoli all'interno del sito in modo semplice e veloce, anche scaricandoli direttamente dal tuo account Autoscout24.
+Grazie al CMS Jekyll si possono aggiungere nuove pagine e modificare le informazioni già presenti anche **senza nessuna competenza in linguaggi di programmazione**. Con l'utilizzo del plugin **[Jekyll-Autoscout24](/jekyll-website/plugin-jekyll-autoscout24-concessionarie-auto/)** potrai pubblicare i tuoi veicoli all'interno del sito in modo semplice e veloce, anche scaricandoli direttamente dal tuo account Autoscout24.
 
 ## Funzione Ricerca Veicoli
 

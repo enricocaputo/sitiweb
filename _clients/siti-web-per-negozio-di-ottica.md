@@ -5,13 +5,13 @@ excerpt: Ideale per ottici, optometristi e negozi di ottica. Guarda una live dem
 external_url: https://www.adriaoptika.si/
 image_path: /images/clients/adriaoptika.jpg
 ---
-sito internet adatto per ottici, optometristi e negozi di ottica in genere. Guarda una [live demo](https://www.adriaoptika.si/).
+sito internet adatto per ottici, optometristi e negozi di ottica in genere. Guarda una [live demo](https://www.adriaoptika.si/){: rel="nofollow"}.
 Incrementa la presenza web della tua attività con questo tema configurabile a piacere.
 
 Ottica è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
-Qui puoi trovare altri esempi di temi per [Jekyll](http://jekyllthemes.org/) da cui trarre ispirazione.
+Qui puoi trovare altri esempi di temi per [Jekyll](https://jekyllrb.com/showcase/){: rel="nofollow"} da cui trarre ispirazione.
 
-Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
+Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/){: rel="nofollow"}.
 
 ## Caratteristiche
 
@@ -22,7 +22,7 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 * Google Analytics
 * Blog con paginazione
 * Categorizzazione dei post
-* [EventBrite](https://www.eventbrite.com/)
+* [EventBrite](https://www.eventbrite.com/){: rel="nofollow"}
 * Contact Form
 * Foto in primo piano e Carosello foto
 * Image Gallery
@@ -35,9 +35,9 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Ottica è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Ottica è stato costruito con [Jekyll](http://jekyllrb.com/){: rel="nofollow"} versione 3.7.2, ma supporta le future versioni.
 
-Installa le dipendenze con [Bundler](http://bundler.io/):
+Installa le dipendenze con [Bundler](http://bundler.io/){: rel="nofollow"}:
 
 ~~~bash
 $ bundle install
@@ -55,18 +55,18 @@ Ottica è già ottimizzato per poter aggiornare facilmente le pagine, i dettagli
 
 ## SEO Tag
 
-Questo sito usa il plugin [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag). Devi inserire per lo meno un titolo nel front matter di ogni pagina. Guarda la [pagina del progetto](https://github.com/jekyll/jekyll-seo-tag) per maggiori opzioni.
+Questo sito usa il plugin [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag){: rel="nofollow"}. Devi inserire per lo meno un titolo nel front matter di ogni pagina. Guarda la [pagina del progetto](https://github.com/jekyll/jekyll-seo-tag){: rel="nofollow"} per maggiori opzioni.
 
 ## Google Analytics
 
-[Google Analytics](https://www.google.com/analytics/) è uno strumento di analisi di terze parti. Per installarlo:
+[Google Analytics](https://www.google.com/analytics/){: rel="nofollow"} è uno strumento di analisi di terze parti. Per installarlo:
 
 1. Aggiungi la tua Google Analytics key al file `_config.yml`.
 2. Esegui il tuo sito in produzione `JEKYLL_ENV = production` (di default per SitiWeb_FVG e GitHub Pages).
 
 ## EventBrite
 
-[EventBrite](https://www.eventbrite.com/) è un modulo eventi di terze parti che puoi inserire nel sito web. Per installarlo:
+[EventBrite](https://www.eventbrite.com/){: rel="nofollow"} è un modulo eventi di terze parti che puoi inserire nel sito web. Per installarlo:
 
 1. Crea un evento su EventBrite.
 2. Copia il codice di incorporazione (embed) del Ticket Form dal Widgets menu item.

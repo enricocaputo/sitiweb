@@ -5,12 +5,12 @@ excerpt: Ideale per studio di avvocati. Guarda una live demo. Incrementa la pres
 external_url: https://grey-grouse.cloudvent.net/
 image_path: /images/clients/justice.jpg
 ---
-Avvocati, liberi professionisti e studi associati sono gli utenti a cui è indirizzato questo Template per Jekyll. Guarda la [live demo](https://grey-grouse.cloudvent.net/).
+Avvocati, liberi professionisti e studi associati sono gli utenti a cui è indirizzato questo Template per Jekyll. Guarda la [live demo](https://grey-grouse.cloudvent.net/){: rel="nofollow"}.
 Rafforza la presenza web del tuo studio con questo tema altamente personalizzabile.
 
 Justice è stato realizzto da [SitiWeb_FVG](/), il Cloud CMS per Jekyll.
 
-Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
+Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/){: rel="nofollow"}.
 
 ## Caratteristiche
 
@@ -35,9 +35,9 @@ Impara Jekyll direttamente dal [sito ufficiale](https://jekyllrb.com/).
 
 ## Sviluppo
 
-Justice è stato costruito con [Jekyll](http://jekyllrb.com/) versione 3.7.2, ma supporta le future versioni.
+Justice è stato costruito con [Jekyll](http://jekyllrb.com/){: rel="nofollow"} versione 3.7.2, ma supporta le future versioni.
 
-Installa le dipendenze con [Bundler](http://bundler.io/):
+Installa le dipendenze con [Bundler](http://bundler.io/){: rel="nofollow"}:
 
 ~~~bash
 $ bundle install

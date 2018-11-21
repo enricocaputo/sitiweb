@@ -108,6 +108,7 @@ defaults:
       layout: "default"
 
 # -----------
+markdown: kramdown
 
 social_icons:
   - Facebook
