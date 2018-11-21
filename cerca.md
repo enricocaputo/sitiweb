@@ -1,7 +1,8 @@
 ---
 layout: new-pages
-title: Ricerca Personalizzata
-excerpt: Centro assistenza ufficiale di Siti Web in cui puoi trovare i servizi e prodotti web offerti dalla nostra agenzia web di Udine.
+title: Cerca tra le notizie ed i servizi web offerti dalla Web Agency SitiWeb
+subtitle: Ricerca Personalizzata
+excerpt: Ricerca Personalizzata, qui puoi cercare tra le notizie ed i servizi web offerti dalla Web Agency SitiWeb di Udine.
 permalink: /cerca/
 sitemap: false
 ---
@@ -18,6 +19,7 @@ sitemap: false
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
+
 <div class="ricerca-personalizzata">
   <div id="google-search">
     <gcse:search></gcse:search>
