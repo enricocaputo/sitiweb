@@ -18,6 +18,6 @@ Offro un servizio professionale di **restyling grafico** e di **contenuti**, pre
 
 La nuova grafica ed i nuovi testi saranno sviluppati in stretta collaborazione con il cliente, per essere certi di creare un prodotto che lo soddisfi a pieno, ottenendo un sito web pronto a dare nuovo vigore al vostro business attirando nuovi utenti e **nuovi clienti**.
 
-Il restyling ha dei **[costi variabili](/quanto-costa-un-sito-web/)**, a seconda della grandezza del sito web su cui operare e delle esigenze del cliente e della propria struttura aziendale. I miei siti web sono ottimizzati per tutti i browser per garantire sempre una perfetta visibilità.
+Il restyling ha dei **[costi variabili](/jekyll-website/quanto-costa-un-sito-web/)**, a seconda della grandezza del sito web su cui operare e delle esigenze del cliente e della propria struttura aziendale. I miei siti web sono ottimizzati per tutti i browser per garantire sempre una perfetta visibilità.
 
-**[richiedi ora un preventivo senza impegno](/contatti/)**
+**[Scopri quanto costa in media un Sito Web](/jekyll-website/quanto-costa-un-sito-web/)** oppure  **[richiedi ora un preventivo senza impegno](/contatti/)!**

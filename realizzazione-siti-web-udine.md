@@ -31,4 +31,4 @@ Dopo l'approvazione della bozza grafica, procedo con la scrittura del **codice s
 
 **Dopo aver testato** il sito è finalmente giunto il momento di metterlo in rete. **Il sito web è online** ed è navigabile da qualsiasi dispositivo. Resto a disposizione del cliente per settare le Email e per eventuali aggiustamenti.
 
-**[richiedi ora un preventivo senza impegno](/contatti/)**
+**[Scopri quanto costa in media un Sito Web](/jekyll-website/quanto-costa-un-sito-web/)** oppure  **[richiedi ora un preventivo senza impegno](/contatti/)!**
