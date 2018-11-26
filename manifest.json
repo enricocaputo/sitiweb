@@ -1,6 +1,7 @@
 {
     "short_name": "Caputo",
     "name": "Enrico Caputo",
+    "start_url": "/",
     "icons": [
         {
             "src": "/images/ico/favicon.png",
