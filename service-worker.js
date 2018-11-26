@@ -1,5 +1,6 @@
 importScripts('https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js');
-workbox.routing.registerRoute(
-  new RegExp('\.png$'),
-  workbox.strategies.cacheFirst()
-);
+if(workbox){
+  workbox.setConfig({debug:false});
+  workbox.skipWaiting();
+  workbox.clientsClaim();
+  workbox.routing.registerRoute(new RegExp('.*'),workbox.strategies.networkFirst());}
