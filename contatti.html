@@ -16,11 +16,11 @@ map:
     <p>Oppure scopri <a href="/jekyll-website/quanto-costa-un-sito-web/" title="quanto-costa-un-sito-web">quanto costa un sito web</a> a seconda dei vari obiettivi.</p>
     <form action="https://www.enformed.io/glue4q0p" method="post" class="contact-form">
       <input type="hidden" name="*subject" value="Richiesta info da Cliente SitiWebFVG" />
-
+      <input type="hidden" name="*honeypot" />
 			<div class="halves">
 				<div>
 					<label for="name">Nome</label>
-					<input type="text" name="first-name" id="first-name" placeholder="Mario" />
+					<input type="text" name="first-name" id="first-name" placeholder="Mario" required />
 				</div>
 
 				<div>
@@ -33,7 +33,7 @@ map:
 			<input type="email" name="email" id="email" placeholder="mario.rossi@gmail.com" required />
 
 			<label for="message">Messaggio</label>
-			<textarea name="message" id="message" placeholder="Vi contatto per..."></textarea>
+			<textarea name="message" id="message" placeholder="Vi contatto per..." maxlength="300"></textarea>
       <input type="hidden" name="*redirect" value="https://www.sitiweb.fvg.it/contact-success/" />
 			<input type="submit" value="I N V I A" />
 		</form>
