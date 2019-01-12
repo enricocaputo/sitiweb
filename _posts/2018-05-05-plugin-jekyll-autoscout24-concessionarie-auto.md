@@ -1,12 +1,13 @@
 ---
 title: "Jekyll-Autoscout24 per Siti Web di concessionarie auto e moto"
-excerpt: "Abbiamo sviluppato il plugin Jekyll-Autoscout24. Offriamo Servizi Web per Concessionari Auto e Moto: configuratore auto, marketing, advertising per vendita automobili."
+excerpt: "Abbiamo sviluppato il plugin open-source Jekyll-Autoscout24 utilizzato da oltre 500 concessionarie. Offriamo Servizi Web per Concessionari Auto e Moto."
 categories:
 image: /images/posts-images/autoscout.jpg
 image_featured: true
 author_staff_member: enrico
 show_comments: true
 date: 2018-05-05
+last_modified_at: 2019-01-12T10:39
 ---
 
 
